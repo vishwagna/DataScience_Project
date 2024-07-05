@@ -36,7 +36,7 @@ To use the project:
 - download dataset file named 'merged.csv' and now run data_preprocessing.ipynb for preprocessing the data.
 - `data_preprocessing.ipynb` file contains methods used for preprocessing the data, data cleaning, transformation, reduction and feature engineering.
 - the results of preprocessing are stored in, cleaned_data.csv, transformed_data.csv and reduced_data.csv.
-- Run `data_analysis' for performing visualization analysis on dataset.
+- Run `data_analysis.ipynb' for performing visualization analysis on dataset.
 
 ## Data
 
@@ -47,7 +47,7 @@ The dataset consists of:
 - Winners of sports events in 2022 and 2023
 
 ## Models Developed
-  - run ml_models.ipynb file to run the models.
+  - run 'ml_models.ipynb' file to run the models.
     
 ### Model 1: Winner Prediction Model
 
